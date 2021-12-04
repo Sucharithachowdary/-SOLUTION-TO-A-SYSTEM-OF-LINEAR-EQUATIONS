@@ -23,6 +23,6 @@ print(f)
 ~~~
 
 ## Output:
-![GitHub Logo](solving liner equations.png)
+![GitHub Logo](solving linear equations.png)
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
